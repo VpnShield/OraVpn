@@ -1,0 +1,23 @@
+{
+"Title": "#توجه",
+"Description": "سلام کاربر گرامی...\n\n• لینک کانال VIP آموزش کسب‌درآمد و تحلیل قیمت بازار و تورم ایران رایگان شد!!\n- اگه میخوای قیمت از داستان پشت پرده کاهش دلار و تورم بعد عید یا ... زودتر با خبر بشی زودتر عضو کانال شو و حتما وویس رو گوش بده!!!!!\n\n(فقط و فقط ظرفیت 1000 نفر)\n\n(با دکمه زیر از کانال بازدید کنید ، عضویت اجباری نیست ، میتونید بدون عضو شدن به برنامه برگردید و از فیلترشکن استفاده کنید)",
+"Link": "tg://join?invite=a05znEK3IkFmYTc0",
+"ColorWave": "#14acdf",
+"ColorWaveTwo": "#53ddef",
+"ColorBackGround": "#ffffff",
+"TitleGravity": "center",
+"MessageGravity": "right",
+"ColorMessage": "#ff323232",
+"ColorTitle": "#ff111111",
+"ColorBtn": "#ffffff",
+"ColorBtnBg": "#00a043",
+"ColorBtnCancell": "#ffffff",
+"ColorBtnCancellBg": "#e90000",
+"Cancellable": "false",
+"MessageID": "1",
+"ShowTime": "65",
+"Button": "عضویت در کانال Vip",
+"ButtonCancell": " بعدا ",
+"Closure": "true",
+"Show": "on"
+}
